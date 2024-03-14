@@ -1,0 +1,17 @@
+
+
+[s3]
+bucket='pro-rcp'
+folder='input'
+
+
+
+[run]
+py_script="run.py"
+
+
+
+
+    
+
+    
