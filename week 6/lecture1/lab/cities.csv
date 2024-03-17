@@ -1,0 +1,322 @@
+﻿CTY_ID,CTY_NAME
+100001,Algiers
+100002,Bujumbura
+100003,Bangui
+100004,Cairo
+100005,Addis Ababa
+100006,Libreville
+100007,Banjul
+100008,Conakry
+100009,Abidjan
+100010,Nairobi
+100011,Rabat
+100012,Antananarivo
+100013,Nouakchott
+100014,Lilongwe
+100015,Niamey
+100016,Lagos
+100017,Freetown
+100018,Lome
+100019,Tunis
+100020,Dar Es Salaam
+100021,Kampala
+100022,Lusaka
+100023,Beijing
+100024,Guangzhou
+100025,Shenyang
+100026,Hong Kong
+100027,Chennai (Madras)
+100028,Jakarta
+100029,Tokyo
+100030,Bishkek
+100031,Ulan-bator
+100032,Katmandu
+100033,Karachi
+100034,Manila
+100035,Singapore
+100036,Dusanbe
+100037,Bangkok
+100038,Brisbane
+100039,Melbourne
+100040,Sydney
+100041,Minsk
+100042,Sofia
+100043,Paris
+100044,Bonn
+100045,Hamburg
+100046,Lisbon
+100047,Bucharest
+100048,Pristina
+100049,Madrid
+100050,Geneva
+100051,Belfast
+100052,Tel Aviv
+100053,Amman
+100054,Beirut
+100055,Muscat
+100056,Damascus
+100057,Ottawa
+100058,Toronto
+100059,San Jose
+100060,Guayaquil
+100061,Wilmington
+100062,Washington
+100063,Tallahassee
+100064,Caribou
+100065,Cotonou
+100066,Brazzaville
+100067,Bissau
+100068,Windhoek
+100069,Dakar
+100070,Dhaka
+100071,Chengdu
+100072,Shanghai
+100073,Bombay (Mumbai)
+100074,Delhi
+100075,Osaka
+100076,Sapporo
+100077,Almaty
+100078,Vientiane
+100079,Kuala Lumpur
+100080,Rangoon
+100081,Pyongyang
+100082,Islamabad
+100083,Seoul
+100084,Tashkent
+100085,Hanoi
+100086,Canberra
+100087,Perth
+100088,Auckland
+100089,Vienna
+100090,Brussels
+100091,Nicosia
+100092,Prague
+100093,Helsinki
+100094,Bordeaux
+100095,Munich
+100096,Tbilisi
+100097,Budapest
+100098,Dublin
+100099,Milan
+100100,Riga
+100101,Oslo
+100102,Warsaw
+100103,Yerevan
+100104,Bratislava
+100105,Bilbao
+100106,Bern
+100107,Zurich
+100108,Belgrade
+100109,Manama
+100110,Kuwait
+100111,Doha
+100112,Dhahran
+100113,Riyadh
+100114,Ankara
+100115,Dubai
+100116,Edmonton
+100117,Halifax
+100118,Quebec
+100119,Regina
+100120,Mexico City
+100121,Monterrey
+100122,Brasilia
+100123,Sao Paulo
+100124,Havana
+100125,Santo Domingo
+100126,Quito
+100127,Port au Prince
+100128,Lima
+100129,Paramaribo
+100130,Caracas
+100131,Montgomery
+100132,Anchorage
+100133,Fairbanks
+100134,Juneau
+100135,Flagstaff
+100136,Phoenix
+100137,Yuma
+100138,Fort Smith
+100139,Little Rock
+100140,Sacramento
+100141,San Diego
+100142,Grand Junction
+100143,Bridgeport
+100144,Hartford Springfield
+100145,Orlando
+100146,Tampa St. Petersburg
+100147,West Palm Beach
+100148,Columbus
+100149,Honolulu
+100150,Indianapolis
+100151,South Bend
+100152,Des Moines
+100153,Louisville
+100154,Shreveport
+100155,Grand Rapids
+100156,Lansing
+100157,Sault Ste Marie
+100158,Kansas City
+100159,St Louis
+100160,Lincoln
+100161,Atlantic City
+100162,Albuquerque
+100163,New York City
+100164,Cincinnati
+100165,Cleveland
+100166,Dayton
+100167,Oklahoma City
+100168,Medford
+100169,Salem
+100170,Allentown
+100171,Wilkes Barre
+100172,Sioux Falls
+100173,Memphis
+100174,Brownsville
+100175,Wichita Falls
+100176,Burlington
+100177,San Juan Puerto Rico
+100178,Maputo
+100179,Calcutta
+100180,Colombo
+100181,Taipei
+100182,Ashabad
+100183,Tirana
+100184,Zagreb
+100185,Copenhagen
+100186,Frankfurt
+100187,Athens
+100188,Reykjavik
+100189,Rome
+100190,Skopje
+100191,Amsterdam
+100192,Moscow
+100193,Barcelona
+100194,Stockholm
+100195,Kiev
+100196,Istanbul
+100197,Abu Dhabi
+100198,Calgary
+100199,Montreal
+100200,Vancouver
+100201,Winnipeg
+100202,Guadalajara
+100203,Buenos Aires
+100204,Nassau
+100205,Hamilton
+100206,Belize City
+100207,La Paz
+100208,Bridgetown
+100209,Rio de Janeiro
+100210,Bogota
+100211,Georgetown
+100212,Tegucigalpa
+100213,Panama City
+100214,Montvideo
+100215,Birmingham
+100216,Huntsville
+100217,Tucson
+100218,San Francisco
+100219,Colorado Springs
+100220,Denver
+100221,Pueblo
+100222,Washington DC
+100223,Daytona Beach
+100224,Jacksonville
+100225,Miami Beach
+100226,Atlanta
+100227,Savannah
+100228,Boise
+100229,Pocatello
+100230,Chicago
+100231,Peoria
+100232,Rockford
+100233,Springfield
+100234,Fort Wayne
+100235,Sioux City
+100236,Goodland
+100237,Wichita
+100238,Baton Rouge
+100239,Lake Charles
+100240,New Orleans
+100241,Portland
+100242,Baltimore
+100243,Boston
+100244,Detroit
+100245,Flint
+100246,Duluth
+100247,Minneapolis St. Paul
+100248,Tupelo
+100249,Billings
+100250,Great Falls
+100251,Helena
+100252,North Platte
+100253,Omaha
+100254,Las Vegas
+100255,Concord
+100256,Newark
+100257,Albany
+100258,Buffalo
+100259,Rochester
+100260,Syracuse
+100261,Asheville
+100262,Charlotte
+100263,Greensboro
+100264,Fargo
+100265,Akron Canton
+100266,Toledo
+100267,Youngstown
+100268,Tulsa
+100269,Harrisburg
+100270,Philadelphia
+100271,Pittsburgh
+100272,Rhode Island
+100273,Charleston
+100274,Chattanooga
+100275,Nashville
+100276,Abilene
+100277,Amarillo
+100278,Austin
+100279,Corpus Christi
+100280,Dallas Ft Worth
+100281,Houston
+100282,Lubbock
+100283,Midland Odessa
+100284,San Angelo
+100285,San Antonio
+100286,Waco
+100287,Salt Lake City
+100288,Norfolk
+100289,Richmond
+100290,Roanoke
+100291,Seattle
+100292,Yakima
+100293,Elkins
+100294,Green Bay
+100295,Madison
+100296,Casper
+100297,Capetown
+100298,Guatemala City
+100299,Managua
+100300,Mobile
+100301,Fresno
+100302,Los Angeles
+100303,Macon
+100304,Evansville
+100305,Topeka
+100306,Lexington
+100307,Paducah
+100308,Jackson
+100309,Reno
+100310,Raleigh Durham
+100311,Bismarck
+100312,Eugene
+100313,Erie
+100314,Columbia
+100315,Rapid City
+100316,Knoxville
+100317,El Paso
+100318,Spokane
+100319,Milwaukee
+100320,Cheyenne
+100321,London
