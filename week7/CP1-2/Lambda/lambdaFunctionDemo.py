@@ -59,29 +59,7 @@ def lambda_handler(event, context):
     
 
     
-    create_stage_query = f"CREATE OR REPLACE STAGE {stage_name} FILE_FORMAT =COMMA_CSV"
-    cursor.execute(create_stage_query)
-
-    # Copy the file from local to the stage
-    copy_into_stage_query = f"PUT 'file://{local_file_path}' @{stage_name}"
-    cursor.execute(copy_into_stage_query)
     
-    # List the stage
-    list_stage_query = f"LIST @{stage_name}"
-    cursor.execute(list_stage_query)
-    
-    # truncate table
-    truncate_table = f"truncate table {schema}.{table};"  
-    cursor.execute(truncate_table)    
-
-
-    # Load the data from the stage into a table (example)
-    copy_into_query = f"COPY INTO {schema}.{table} FROM @{stage_name}/{file_name} FILE_FORMAT =COMMA_CSV;"  
-    cursor.execute(copy_into_query)
-
-
-    print("File uploaded to Snowflake successfully.")
-
 
     return {
         'statusCode': 200,
